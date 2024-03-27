@@ -66,3 +66,15 @@ C:\Users\Nemo47\Downloads\Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
 C:\Users\Nemo47\Downloads\Base\obj\Debug\MyGame.csproj.CopyComplete
 C:\Users\Nemo47\Downloads\Base\obj\Debug\MyGame.exe
 C:\Users\Nemo47\Downloads\Base\obj\Debug\MyGame.pdb
+C:\Users\rodri\OneDrive\Documentos\GitHub\LastDefense\Base\bin\Debug\assets\player.png
+C:\Users\rodri\OneDrive\Documentos\GitHub\LastDefense\Base\bin\Debug\assets\fondo.png
+C:\Users\rodri\OneDrive\Documentos\GitHub\LastDefense\Base\bin\Debug\MyGame.exe.config
+C:\Users\rodri\OneDrive\Documentos\GitHub\LastDefense\Base\bin\Debug\MyGame.exe
+C:\Users\rodri\OneDrive\Documentos\GitHub\LastDefense\Base\bin\Debug\MyGame.pdb
+C:\Users\rodri\OneDrive\Documentos\GitHub\LastDefense\Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Documentos\GitHub\LastDefense\Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\OneDrive\Documentos\GitHub\LastDefense\Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\GitHub\LastDefense\Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\rodri\OneDrive\Documentos\GitHub\LastDefense\Base\obj\Debug\MyGame.exe
+C:\Users\rodri\OneDrive\Documentos\GitHub\LastDefense\Base\obj\Debug\MyGame.pdb
+C:\Users\rodri\OneDrive\Documentos\GitHub\LastDefense\Base\bin\Debug\assets\Balarda.png
